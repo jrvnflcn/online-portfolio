@@ -401,6 +401,12 @@ section p {
   section h2 {
     font-size: 2rem;
   }
+  .hero-container{
+    width: 100%;
+  }
+  .name-signature {
+    display: none;
+  }
   .projects-grid {
     grid-template-columns: 1fr;
   }
