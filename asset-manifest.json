@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/online-portfolio/static/css/main.aae5bd5f.css",
+    "main.js": "/online-portfolio/static/js/main.8b41493f.js",
+    "static/media/Photo ID.png": "/online-portfolio/static/media/Photo ID.85887dc5b32bc212a7e9.png",
+    "static/media/Signature with name.png": "/online-portfolio/static/media/Signature with name.a3170df9d3d83f2c321d.png",
+    "index.html": "/online-portfolio/index.html",
+    "main.aae5bd5f.css.map": "/online-portfolio/static/css/main.aae5bd5f.css.map",
+    "main.8b41493f.js.map": "/online-portfolio/static/js/main.8b41493f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aae5bd5f.css",
+    "static/js/main.8b41493f.js"
+  ]
+}
