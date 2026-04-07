@@ -75,6 +75,10 @@ body {
   display: flex;
 }
 
+.mobileName{
+  display: none;
+}
+
 .hero-section {
   background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
   color: #ffffff;
@@ -401,8 +405,15 @@ section p {
   section h2 {
     font-size: 2rem;
   }
+  .mobileName{
+    display: block;
+    font-size: 30px !important; 
+    font-weight: 600 !important;
+    color: #00d4ff !important;
+  }
   .hero-container{
     width: 100%;
+    justify-content: center;
   }
   .name-signature {
     display: none;

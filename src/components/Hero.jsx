@@ -35,6 +35,7 @@ function Hero() {
       </div>
       <img src={nameImage} alt="Name" className="name-signature" />
       </div>
+      <p className="mobileName">Jeane Irvin Feliciano</p>
       <p>Web Developer | React Specialist</p>
       <button onClick={scrollToProjects}>View My Work</button>
     </section>
