@@ -405,6 +405,9 @@ section p {
   section h2 {
     font-size: 2rem;
   }
+  .navbarTitle{
+    display: none;
+  }
   .mobileName{
     display: block;
     font-size: 30px !important; 
